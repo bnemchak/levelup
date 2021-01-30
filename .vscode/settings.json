@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "levelupdbconn",
+      "database": "${workspaceFolder:levelup}/db.sqlite3"
+    }
+  ],
+  "python.pythonPath": "/Users/brookenemchak/.local/share/virtualenvs/levelup-MbZoRFyu/bin/python"
+}
